@@ -11,22 +11,22 @@
     "pyrogram"
     ],
     "env": {
-      "API_ID": {
+      "API_ID": {27054067
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "API_HASH": {
+      "API_HASH": {7338fcff2a6827fded09b0a14155dafc
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {7826357033:AAFAbgxLI5rkSE13XZ1N7_yHZym-ErlQCWk
         "description": "A Bot's token from Botfather",
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "OWNER_ID": {7045119807
         "description": "Fill your user id here. (Must be integer)",
         "value": "1356469075",
         "required": true
